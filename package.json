@@ -46,5 +46,7 @@
   "private": true,
   "name": "nucamp-reactnative-site",
   "version": "1.0.0",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/KenMan79/nucamp-reactnative-site.git",
+  "author": "Kenneth Luster <51566205+KenMan79@users.noreply.github.com>"
 }
