@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "nucampsite-react-native",
+    "slug": "nucampsite-react-native",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "bundleIdentifier": "co.nucamp.nucampsite.student",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "co.nucamp.nucampsite.student",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "",
+    "githubUrl": "https://github.com/kenman79/nucampsite-react-native"
+  }
+}
